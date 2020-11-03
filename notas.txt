@@ -1,0 +1,36 @@
+Linguagem Python: aprendendo a linguagem (Parte 1)
+Esta atividade é composta por três partes com a seguinte programação:
+
+"Linguagem Python: aprendendo a linguagem (Parte 1)", em 03/11/2020, de 13h às 16h [BSB], com o Prof. Paulo Salvatore.
+
+"Linguagem Python: aprendendo a linguagem (Parte 2)", em 04/11/2020, de 13h às 16h [BSB], com o Prof. Paulo Salvatore.
+
+"Linguagem Python: aprendendo a linguagem (Parte 3)", em 05/11/2020, de 13h às 16h [BSB], com o Prof. Paulo Salvatore.
+
+Totalizando a Carga Horária de 9 Horas.
+
+Ao se inscrever nesta atividade você estará automaticamente inscrito (a) nas demais partes.
+
+Todos os links serão enviados por e-mail com antecedência
+
+Público Alvo: Estudantes, Profissionais, interessados em geral.
+Pré-Requisitos: Acima de 18 anos. Noções de programação.
+Duração: 3 hora(s), das 13:00 às 16:00
+Palestrante: Prof. Paulo Salvatore
+Informações Adicionais: Horário de Brasília. Informações de acesso serão enviadas por e-mail.
+
+https://github.com/paulosalvatore
+
+virtualplanet.tech
+
+youtube fabrica de sinapse
+
+https://discord.gg/7eQAMBdE
+
+https://github.com/paulosalvatore/Ocean_Python_03_11_2020/blob/master/Ocean_Python_03_11_2020.ipynb
+
+https://paulosalvatore.github.io/exercicios_python/
+
+
+
+
